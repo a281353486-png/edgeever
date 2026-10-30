@@ -2015,7 +2015,7 @@ export const ja = {
       biweekly: "2週間ごと",
       monthly: "毎月"
     },
-    encryption: "バックアップ暗号化",
+    encryption: "パスワードで暗号化",
     password: "バックアップのパスワード",
     confirmPassword: "パスワードの確認",
     passwordSet: "パスワード設定済み",
@@ -2061,8 +2061,6 @@ export const ja = {
     lastCheck: "最終確認：{{time}}",
     notChecked: "未確認",
     autoOff: "自動バックアップはオフです",
-    savingSettings: "バックアップ設定を保存中…",
-    completePassword: "バックアップパスワードを入力し、確認してください。パスワード欄から離れると自動保存されます。",
     deleteTitle: "このバックアップを削除しますか？",
     deleteDescription: "ローカルファイル「{{name}}」を完全に削除します。元に戻せません。復元済みのノートは残ります。",
     deleteConfirm: "完全に削除",

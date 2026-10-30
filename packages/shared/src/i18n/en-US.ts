@@ -2026,7 +2026,7 @@ export const enUS = {
       biweekly: "Every two weeks",
       monthly: "Monthly"
     },
-    encryption: "Backup encryption",
+    encryption: "Password encryption",
     password: "Backup password",
     confirmPassword: "Confirm password",
     passwordSet: "Password set",
@@ -2072,8 +2072,6 @@ export const enUS = {
     lastCheck: "Latest check: {{time}}",
     notChecked: "Not checked yet",
     autoOff: "Automatic backup is off",
-    savingSettings: "Saving backup settings…",
-    completePassword: "Enter and confirm the backup password. Settings save automatically when you leave the password fields.",
     deleteTitle: "Delete this backup?",
     deleteDescription: "Permanently delete the local file “{{name}}”. This cannot be undone. Restored notes will remain.",
     deleteConfirm: "Delete permanently",
